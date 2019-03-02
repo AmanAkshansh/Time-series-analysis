@@ -1,4 +1,4 @@
-                    #  Case Study 4 - Time series analysis 
+                    #  Project 4 - Time series analysis 
 
 #  Getting the data
 library(readxl)
